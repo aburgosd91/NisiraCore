@@ -53,6 +53,12 @@ public class Constantes {
     	else
     		return new Color(255, 255, 255, 80);
     }
+    public static String buscarFragmentoTexto2(String texto,String charI,String charF,int rep){
+    	String fragmento="";
+    	String temp=texto;
+    	
+    	return fragmento;
+    }
     public static String buscarFragmentoTexto(String texto,String charI,String charF,int rep){
     	String fragmento="";
     	String temp=texto;
